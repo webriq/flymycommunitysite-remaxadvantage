@@ -1,13 +1,13 @@
 {
   "sitedata": [
     {
-      "sitename": "Fly My Community",
+      "sitename": "Wolf Ranch",
       "icon": "/img/favicon.png",
-      "logo": "/img/logofly.png",
+      "logo": "https://res.cloudinary.com/fmcapp/image/upload/v1562963321/zjn1hhyxcyaotkahcg2k.png",
       "logoname": "Fly My Community",
       "metadesc": "Trusted By Fine Real Estate Professionals",
-      "metauthor": "Fly My Community",
-      "metakeyword": "cms",
+      "metauthor": "RE/MAX Advantage",
+      "metakeyword": "wolf ranch, colorado springs real estate, colorado springs homes for sale, colorado springs, colorado springs realtor",
       "footer": "All rights reserved! 2018 WebriQ Pte Ltd"
     }
   ],
@@ -16,7 +16,7 @@
       "email": "realagent@flymycommunity.com",
       "logo": "/img/logofly.png",
       "linkcont": "032000333555",
-      "videoid": "255662356",
+      "videoid": "234045698",
       "sliderbg": "/img/slider_bg.jpg",
       "sliderbg_video": "https://player.vimeo.com/video/250014579?background=1",
       "slidertext1": "Crystal Park",
